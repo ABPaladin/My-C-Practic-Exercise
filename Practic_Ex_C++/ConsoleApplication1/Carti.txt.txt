@@ -1,0 +1,10 @@
+46 HertaMuler AnimalulInimii 1993 Germana 650 650 Dragoste
+69 ConstantinChirita AripideZapada 1968 Romana 450 800 Natura
+97 MarinPreda CelMaiIubitiDinPaminteni 1980 Romana 745 980 Dragoste
+63 ConstantinChirita CastelulFeteiInAlb 1958 Romana 420 625 Aventura
+56 ConstantinChirita DrumBunCiresari 1963 Romana 645 730 Nostalgie
+32 IonCreanga AmintiriDinCopilarie 1959 Romana 240 950 Copilaria
+618 GeorgeOrwell 1984 1949 Engleza 600 1100 Politica
+20 NicolaiDabija TemaPentruAcasa 2011 Romana 452 980 Dragostea
+90 FeodorDostoevschi CrimaSiPedeapsa 1866 Rusa 895 2890 Filozofie
+70 AntonieDeSant MiculPrint 1943 Franceza 653 920 Fantastica
